@@ -125,6 +125,13 @@ flutter:
     - assets/images/chicken_pasta.png
 ```
 
+## Screenshots
+<div align="center">
+  <img src="https://github.com/PrathameshMalavi/Food-App-UI-Template/assets/114830029/73c54477-5134-4159-b9d7-7e3198fc4ec8" alt="IMG_20240520_191649" width="200" />
+  <img src="https://github.com/PrathameshMalavi/Food-App-UI-Template/assets/114830029/5296041a-273e-48de-bf6c-9b91eda5fa73" alt="IMG_20240520_191705" width="200" />
+</div>
+
+
 ## Contributing
 
 1. Fork the repository
